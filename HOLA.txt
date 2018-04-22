@@ -1,12 +1,9 @@
-
 feo
 =======
 guapo
-
 ESTO LO MODIFICO DESDE EL GITHUB ESCRITORIO
-
-
 AH PUES MUY BIEN ME HOLA
 =======
 AH PUES MUY BIEN ME tontolamierda
-
+-------------------------------
+Desde la rama Nueva, renombro el archivo a .txt
